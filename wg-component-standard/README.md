@@ -29,6 +29,7 @@ Develop a standard foundation (philosophy and libraries) for core Kubernetes com
 - Slack: [#wg-component-standard](https://kubernetes.slack.com/messages/wg-component-standard)
 - [Mailing list](https://groups.google.com/forum/#!forum/kubernetes-wg-component-standard)
 - [Open Community Issues/PRs](https://github.com/kubernetes/community/labels/wg%2Fcomponent-standard)
+- [Project Board](https://github.com/orgs/kubernetes/projects/26)
 - GitHub Teams:
     - [@kubernetes/wg-component-standard](https://github.com/orgs/kubernetes/teams/wg-component-standard) - Component Standard Discussion
 <!-- BEGIN CUSTOM CONTENT -->
